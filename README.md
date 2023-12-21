@@ -13,6 +13,10 @@
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)](https://isocpp.org/)
 [![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)](https://www.haskell.org/)
+[![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.linux.org/)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
 
