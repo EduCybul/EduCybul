@@ -16,3 +16,5 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
 
+
+![EduCybul's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCybul&show_icons=true&theme=radical)
