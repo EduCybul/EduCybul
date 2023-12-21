@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm [Your Name]!
 
-<!--
-**EduCybul/EduCybul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Computer Science Engineer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on EY as a Financial Crime Technician.
+- 👨‍💻 All of my projects are available at [github.com/yourusername](https://github.com/EduCybul).
+- 💬 Ask me about Python, Java, C++, Haskell, Deep Learning.
+- 📄 Know about my experiences [LinkedIn-Profile-Link](https://www.linkedin.com/in/educybul).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Tools:
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)](https://www.oracle.com/java/)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)](https://isocpp.org/)
+[![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)](https://www.haskell.org/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
+
