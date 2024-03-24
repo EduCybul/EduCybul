@@ -16,6 +16,8 @@
 [![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
 [![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.linux.org/)
+[![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)](https://flutter.dev/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
