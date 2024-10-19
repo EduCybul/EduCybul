@@ -27,6 +27,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 7 hrs 35 mins
+
 Python            4 hrs 31 mins   ██████████████░░░░░░░░░░░   56.66 %
 Dart              1 hr 53 mins    ██████░░░░░░░░░░░░░░░░░░░   23.75 %
 Other             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
