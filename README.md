@@ -25,6 +25,15 @@
 ## My WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python      3 hrs 4 mins    ██████████████████▓░░░░░░   74.44 %
+Batchfile   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Dart        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Other       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Text        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+```
+
 <!--END_SECTION:waka-->
 
 ![EduCybul's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCybul&show_icons=true&theme=dark)
