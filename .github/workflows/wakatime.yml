@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # This runs every hour
+    - cron: '0 0 * * *'  # This runs every hour
   workflow_dispatch:
 
 jobs:
