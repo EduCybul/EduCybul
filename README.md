@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 109 hrs 34 mins
+Total Time: 112 hrs 1 min
 
-Java              35 hrs 24 mins  ████████░░░░░░░░░░░░░░░░░   32.00 %
-Python            26 hrs 17 mins  ██████░░░░░░░░░░░░░░░░░░░   23.76 %
-Dart              17 hrs 46 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Haskell           16 hrs 8 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Groovy            4 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java              35 hrs 24 mins  ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Python            26 hrs 20 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+Dart              20 hrs 9 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+Haskell           16 hrs 8 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Groovy            4 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
