@@ -2,7 +2,7 @@
 
 #### 🎓 Computer Science Engineer
 
-- 🌱 I’m currently working on EY as a Financial Crime Technician.
+- 🌱 I’m currently working on EY as a Financial Crime Data Engineer.
 - 👨‍💻 All of my projects are available at [github.com/EduCybul](https://github.com/EduCybul).
 - 💬 Ask me about Python, Java, C++, Haskell, Deep Learning.
 - 📄 Know about my experiences [LinkedIn-Profile-Link](https://www.linkedin.com/in/educybul).
